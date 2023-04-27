@@ -4,7 +4,7 @@
 
 ## Installation
 
-Docker environment (recommended)
+
 <details><summary> <b>Expand</b> </summary>
 
 # apt install required packages
