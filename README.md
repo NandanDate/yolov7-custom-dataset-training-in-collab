@@ -25,10 +25,9 @@ apt install -y zip htop screen libgl1-mesa-glx
 !pip install onnx>=1.9.0
 !pip install onnx-simplifier>=0.3.6 --user
 # open google collab and follow the instructions 
-#Mount your google drive to collab
-from google.colab import drive
-
-drive.mount("/content/gdrive")
+## Mount your google drive to collab
+     from google.colab import drive
+     drive.mount("/content/gdrive")
 
 ## git clone official yolov7 to drive
  
